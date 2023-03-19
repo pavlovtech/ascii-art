@@ -1,5 +1,6 @@
 # ascii-art
 
+```
 |\---/|
 | o_o |
  \_^_/
@@ -923,3 +924,4 @@ From: chking_unity_ncsu_edu (CHRISTOPHER HOLLAND KING)
 Mike Goldsman              __o          o__      o__      o__      o__
 36004 Ga Tech Station    _ \<,_        _.>/ _   _.>/ _   _.>/ _   _.>/ _
 Atlanta, Georgia 30332  (_)/ (_)      (_) \(_) (_) \(_) (_) \(_) (_) \(_)
+```
