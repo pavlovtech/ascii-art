@@ -1,4 +1,4 @@
-# ascii-art
+# Hand picked collection of ascii art
 
 ```
 |\---/|
